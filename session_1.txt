@@ -1,0 +1,49 @@
+SESSION 1 – Introduction to Statistics in Data Science
+
+TASK 1: List 5 daily actions you perform on apps like Instagram, Zomato,
+or Flipkart, and identify whether the data generated is numerical or
+categorical.
+
+Answer: 1. Instagram – Liking a post: The number of likes is numerical
+data. 2. Instagram – Following someone: The username or profile category
+is categorical data. 3. Zomato – Rating a restaurant: The rating (1 to 5
+stars) is numerical data. 4. Flipkart – Adding products to a cart:
+Product names and categories are categorical data. 5. Zomato – Ordering
+food: The order amount is numerical data.
+
+TASK 2: Given this sample data from a music app: [‘Pop’, ‘Rock’, ‘Jazz’,
+‘Hip-Hop’, ‘Pop’, ‘Rock’, ‘Jazz’, ‘Pop’], classify the type of data and
+explain your reasoning in 2–3 lines.
+
+Answer: The given data is categorical data (Nominal Data) because it
+represents different music genres such as Pop, Rock, Jazz, and Hip-Hop.
+These categories do not have any specific numerical value or order. We
+can use the mode to identify the most popular music genre.
+
+TASK 3: Pick any one feature from an app you use (such as the number of
+likes on an Instagram post, or the rating of a restaurant on Zomato) and
+describe how statistics could help improve that feature for users.
+
+Answer: I choose the number of likes on Instagram posts.
+
+Statistics can help Instagram understand which types of posts receive
+more likes. By analyzing the average likes, user engagement, and posting
+time, Instagram can identify users’ interests. This information can help
+Instagram recommend more interesting content and improve the user
+experience.
+
+TASK 4: Suppose you are building a new playlist recommendation feature
+for a Spotify-like app. List 3 basic statistical terms (such as mean,
+median, mode, variance, etc.) that would be useful in analyzing user
+listening data, and explain each with a one-line example.
+
+Answer: 1. Mean (Average): It helps calculate the average listening time
+of users. For example, if a user listens for 2, 3, and 4 hours on three
+days, the average listening time is 3 hours. 2. Median: It helps find
+the middle value of listening time. For example, if listening times are
+10, 20, and 30 minutes, the median is 20 minutes. 3. Mode: It helps
+identify the most frequently played song or music genre. For example, if
+a user listens to Pop, Rock, Pop, and Jazz, the mode is Pop.
+
+Conclusion: These statistical terms help understand user listening
+habits and recommend songs and playlists according to their interests.
